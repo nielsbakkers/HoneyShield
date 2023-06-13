@@ -101,13 +101,13 @@ or
 
 based on the `APP_SSL` variable in the docker compose file. To login, use the username and password configured using the variables `APP_USER` and `APP_PASS`.
 
-![Login page](Assets\Login_page.png)
+![Login page](Assets/Login_page.png)
 
 ## **The dashboard**
 
 After a succesfull login you will be redirected to the main dashboard.  
 
-![Dashboard](Assets\Dashboard.png)
+![Dashboard](Assets/Dashboard.png)
 
 **Timeframe Selection**
 
@@ -174,7 +174,7 @@ The table contains the following columns:
 
 The table on the attacker page also includes a dedicated search bar for filtering specific requests.
 
-![EventsTable](Assets\Attacker_Events.png)
+![EventsTable](Assets/Attacker_Events.png)
 
 
 ## **Settings**
